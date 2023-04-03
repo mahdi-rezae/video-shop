@@ -1,6 +1,6 @@
 # Video Shop Manage System
 
-This project is related to one of my university courses. I made this project with C++ and OpenGL. 🎓💻
+This project is related to one of my university courses. I made this project with Java. 🎓💻
 
 <br>
 <hr>
